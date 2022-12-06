@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+
+        <script>
+
+            function pulaLinha() {
+    
+            document.write("<br>");
+            document.write("<br>");
+        }
+    
+            function mostra(frase) {
+    
+            document.write(frase);
+            pulaLinha();
+        }
+
+        var multiplicador = 1;
+        while(multiplicador <= 10) {
+            mostra(7 * multiplicador);
+            multiplicador = multiplicador + 1;
+        }
+
+        mostra("FIM");
+
+    </script>

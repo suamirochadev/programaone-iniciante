@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+
+    <input type="text">
+    <button> Compare aqui o seu segredo </button>
+
+        <script>
+            var segredo = Math.round(Math.random() * 10);
+            var input = document.querySelector("input");
+            input.focus();
+
+            function verifica() {
+                if(input.value == segredo) {
+                    alert("Você acertou!!");
+                } else {
+                    alert("Você errou!!");
+                }
+                input.value = ""
+                input.focus();
+            }
+            var button = document.querySelector("button");
+            button.onclick = verifica;
+
+
+
+        </script>

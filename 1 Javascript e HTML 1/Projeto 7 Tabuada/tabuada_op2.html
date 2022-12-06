@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+
+        <script>
+
+            function pulaLinha() {
+    
+            document.write("<br>");
+            document.write("<br>");
+        }
+    
+            function mostra(frase) {
+    
+            document.write(frase);
+            pulaLinha();
+        }
+//Antes com o while:
+//var multiplicador = 1;
+//while(multiplicador <= 10) {
+//  mostra(7 * multiplicador)
+//  multiplicador = multiplicador + 1;
+// }
+
+
+//A estrutura for é dividia em 3 partes. A primeira é a variavel que vai ser incrementada. var multiplicador = 1;
+//segundo: é a condição de repetição, multiplicador <= 10;
+//terceiro: é o criterio de incremento da primeira parte: multiplicador = multiplicador + 1
+
+        for(var multiplicador = 1; multiplicador <= 10; multiplicador++) { //multiplicador = multiplicador + 1; =>> multiplicador++
+
+            mostra(7 * multiplicador);
+
+        }
+
+        mostra("FIM")
+    </script>

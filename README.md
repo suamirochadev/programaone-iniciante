@@ -96,7 +96,7 @@ Realizar um bom trabalho em equipe passa por ter um controle de versão de códi
 [CURSO]
 ✅ Git e Github: controle e compartilhe seu código
 
-🏆
+🏆 [Curso Git e Github - Alura](https://cursos.alura.com.br/certificate/357ea40e-e7bd-405d-aa15-cf6245f218dd)
 
 ✅ [VIDEO] Alura Live #59 - Como entrar no mercado de trabalho de programação? - YouTube
 
@@ -105,4 +105,9 @@ Essa etapa é obrigatória Nos conte sobre seus conhecimentos adquiridos até es
 
 ✅ [SITE] Trilha Iniciante em programação T4
 
-🏆
+🏆 [Certificado de Formação](https://cursos.alura.com.br/degree/certificate/86419a59-70fe-40d0-b162-d3a1c612a5f7)
+
+## Projeto Site Barbearia Alura
+[![Netlify Status](https://api.netlify.com/api/v1/badges/002ced92-492e-4283-b783-72029cb089c3/deploy-status)](https://projetositebarbearia-alura.netlify.app/)
+
+<a href="https://twitter.com/hisuamirocha" target="_blank"><img src="https://img.shields.io/twitter/follow/hisuamirocha?style=social" target="_blank"></a> <a href="suamirochati@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/suamirochadev/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>

@@ -96,13 +96,13 @@ Realizar um bom trabalho em equipe passa por ter um controle de versão de códi
 [CURSO]
 ✅ Git e Github: controle e compartilhe seu código
 
-🏆
+🏆 [Curso Git e Github - Alura](https://cursos.alura.com.br/certificate/357ea40e-e7bd-405d-aa15-cf6245f218dd)
 
 ✅ [VIDEO] Alura Live #59 - Como entrar no mercado de trabalho de programação? - YouTube
 
 6️⃣ Diagnóstico de aprendizado
 Essa etapa é obrigatória Nos conte sobre seus conhecimentos adquiridos até esse momento. É um diagnóstico pessoal por isso é muito importante que você seja sincero com suas respostas.
 
-✅ [SITE] Trilha Iniciante em programação T4
+✅ [Conclusão] Trilha Iniciante em programação T4
 
-🏆
+🏆 [Suami Evelin Rocha De Medeiros - Formação -](https://cursos.alura.com.br/degree/certificate/86419a59-70fe-40d0-b162-d3a1c612a5f7)

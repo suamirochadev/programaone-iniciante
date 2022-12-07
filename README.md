@@ -4,14 +4,18 @@
 
 🔢 Passo a passo
 
-1️⃣ Plano de estudos
+
+
+1️⃣  Plano de estudos
 O plano de estudos foi criado para te guiar neste novo caminho de aprendizado, nele você encontrará a ordem sugerida em que você deve fazer os cursos e o tempo proposto em que você deve concluir os módulos. Com ele você pode acompanhar o ritmo do programa ONE e aproveitar ao máximo os seus tempos de estudo.
 
 ✅ Concluído
 
 📝 Trello - Para acompanhar a programação completa.
 
-2️⃣ Como utilizar o fórum
+
+
+2️⃣  Como utilizar o fórum
 O fórum é um lugar especial e incrível onde podemos tirar dúvidas relacionadas aos cursos, por isso é importante que antes de iniciar os estudos, entenda como usar o fórum da nossa plataforma.
 
 Priorizamos que o fórum seja utilizado apenas para dúvidas. Caso não tenha nenhuma, você pode utilizá-lo para ajudar outras pessoas, fortalecendo a nossa comunidade da Alura.
@@ -19,7 +23,9 @@ Priorizamos que o fórum seja utilizado apenas para dúvidas. Caso não tenha ne
 ✅ Concluído
 ✅ [VIDEO] Como usar o fórum - Gui Lima - YouTube
 
-3️⃣ Aprender a lógica de programação
+
+
+3️⃣  Aprender a lógica de programação
 O raciocínio lógico nos acompanha o tempo todo. Por exemplo, para fazer café, precisamos primeiro aquecer a água, depois despejarmos ela quente sobre o pó de café, assim o pó será coado e o café estará pronto para beber. Caso não siga sequência lógica, vai ser difícil saborear um bom café.
 
 A lógica de programação nada mais é do que uma sequência de passos para resolver um problema. Quem vai resolver o problema, nesse caso, é o computador, baseado nas instruções que passamos para ele. Então, precisamos saber quais tipos de instruções o computador entende e qual a melhor forma de passarmos os comandos para nos comunicarmos com ele.
@@ -42,7 +48,9 @@ Javascript e HTML: pratique lógica com desenhos, animações e um jogo
 🏆 [Curso Javascript e HTML II - Alura](https://cursos.alura.com.br/certificate/c88ad8d9-20d8-48af-a179-cc16baf16fd5)
 
 ✅ [ARTIGO] Como escolher minha carreira em TI? | Alura Cursos Online
-4️⃣ Criar suas primeiras páginas web
+
+
+4️⃣  Criar suas primeiras páginas web
 Nossa, esse mergulho foi fundo! Aprendemos muito sobre como o código é interpretado e executado pelo computador. Já que aprendemos tudo isso, vamos aprender a última peça que falta para criarmos uma página web?
 
 Vamos utilizar HTML e CSS e criar layouts para uma página web estática. Ainda não vamos trabalhar com interatividade em nossa página. Mas relaxe que o próximo passo é juntar tudo que aprendemos em um novo projeto web.
@@ -84,7 +92,9 @@ HTML5 e CSS3 parte 4: avançando no CSS
 
 ✅ [ PODCAST] CSS: Cansei de Ser Simples – Hipsters #09 ALURA+ Como Front-End utiliza o Figma
 
-5️⃣ Ganhar experiência com JavaScript e conhecer o Git
+
+
+5️⃣  Ganhar experiência com JavaScript e conhecer o Git
 Chegou o momento de juntarmos tudo que aprendemos até agora e montarmos uma página web dinâmica, utilizando HTML e CSS para a criação de elementos gráficos, junto com o JavaScript para a manipulação dos componentes da página, permitindo modificação e interação.
 
 É muito importante também se preparar para trabalhar em equipe na área de desenvolvimento, afinal, ninguém trabalha só. Então vamos aprender sobre o sistema de versionamento de código mais utilizado do mundo, o Github, que nos permite compartilhar código com outras pessoas de forma simples e segura.
@@ -100,7 +110,9 @@ Realizar um bom trabalho em equipe passa por ter um controle de versão de códi
 
 ✅ [VIDEO] Alura Live #59 - Como entrar no mercado de trabalho de programação? - YouTube
 
-6️⃣ Diagnóstico de aprendizado
+
+
+6️⃣  Diagnóstico de aprendizado
 Essa etapa é obrigatória Nos conte sobre seus conhecimentos adquiridos até esse momento. É um diagnóstico pessoal por isso é muito importante que você seja sincero com suas respostas.
 
 ✅ [Conclusão] Trilha Iniciante em programação T4

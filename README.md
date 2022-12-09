@@ -2,12 +2,6 @@
 
 #### O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.
 
-
-
-
-
-
-
 🔢 Passo a passo
 
 1️⃣  Plano de estudos
@@ -112,4 +106,15 @@ Essa etapa é obrigatória Nos conte sobre seus conhecimentos adquiridos até es
 
 ✅ [Conclusão] Trilha Iniciante em programação T4
 
+<<<<<<< HEAD
 🏆 [Suami Evelin Rocha De Medeiros - Formação -](https://cursos.alura.com.br/degree/certificate/86419a59-70fe-40d0-b162-d3a1c612a5f7)
+=======
+🏆 [Certificado de Formação](https://cursos.alura.com.br/degree/certificate/86419a59-70fe-40d0-b162-d3a1c612a5f7)
+
+## Projeto Site Barbearia Alura
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/002ced92-492e-4283-b783-72029cb089c3/deploy-status)](https://projetositebarbearia-alura.netlify.app/)
+
+<a href="https://twitter.com/hisuamirocha" target="_blank"><img src="https://img.shields.io/twitter/follow/hisuamirocha?style=social" target="_blank"></a> <a href="suamirochati@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/suamirochadev/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
+
+> > > > > > > 9a98cc0558f58f6f5eae74e96ea1f69fdae3beaf

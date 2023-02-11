@@ -56,6 +56,7 @@ Vamos utilizar HTML e CSS e criar layouts para uma página web estática. Ainda 
 HTML5 e CSS3 parte 1: crie uma página da Web
 
 ✅ Concluído
+
 🏆 [Curso HTML e CSS3 parte 1 - Alura](https://cursos.alura.com.br/certificate/2976980c-a9c1-495a-8beb-683655d9354b)
 
 [CURSO]
@@ -95,6 +96,7 @@ Realizar um bom trabalho em equipe passa por ter um controle de versão de códi
 ✅ [ARTIGO] Git e Github: O que são, Como Configurar e Primeiros Passos | Alura Cursos Online
 
 [CURSO]
+
 ✅ Git e Github: controle e compartilhe seu código
 
 🏆 [Curso Git e Github - Alura](https://cursos.alura.com.br/certificate/357ea40e-e7bd-405d-aa15-cf6245f218dd)
